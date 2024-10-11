@@ -6,32 +6,41 @@
 
 <channel>
 
-  <title>W3Schools Home Page</title>
+  <title>C'est ma page</title>
 
-  <link>http://www.w3schools.com</link>
+  <link>http://www.minecraft.net</link>
 
   <description>Free web building tutorials</description>
 
   <item>
 
-    <title>RSS Tutorial</title>
+    <title>Test</title>
 
-    <link>http://www.w3schools.com/rss</link>
+    <link>https://www.youtube.com/watch?v=xvFZjo5PgG0</link>
 
-    <description>New RSS tutorial on W3Schools</description>
+    <description>C'est un secret</description>
 
   </item>
 
   <item>
 
-    <title>XML Tutorial</title>
+    <title>Inoxtag</title>
 
-    <link>http://www.w3schools.com/XML</link>
+    <link>https://www.youtube.com/channel/UCL9aTJb0ur4sovxcppAopEw</link>
 
     <description>New XML tutorial on W3Schools</description>
 
   </item>
 
+<item>
+
+    <title>Titre</title>
+
+    <link>https://www.toutatice.fr/</link>
+
+    <description>New XML tutorial on W3Schools</description>
+
+  </item>
 </channel>
 
  
